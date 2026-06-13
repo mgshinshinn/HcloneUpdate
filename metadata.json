@@ -1,0 +1,6 @@
+{
+  "name": "Edge TTS Studio",
+  "description": "A dubbing and text-to-speech applet using edge-tts and fluent-ffmpeg.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
